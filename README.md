@@ -1,31 +1,36 @@
-# Halo, saya [Jovankasd] 👋
+<div align="center">
 
-Saya seorang pengembang perangkat lunak yang berfokus pada [Bidang Keahlian Utama, misal: Rekayasa Backend & Sistem Berbasis AI]. Saat ini saya sedang mendalami [Topik Riset/Teknologi yang Sedang Dipelajari] dan mengembangkan solusi di bidang [Area Fokus].
+# Jovanka Surya Dilla
+**AI Orchestrator · Agentic AI Engineer**
+
+*Merancang sistem AI yang membantu pekerjaan nyata terasa lebih jelas, terarah, dan dapat diandalkan.*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-111111?style=flat-square&logo=vercel&logoColor=white)](https://portofolio-six-ruby-34.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Contact-Direct-18181B?style=flat-square&logo=minutemailer&logoColor=white)](mailto:architect@obsidian-atmosphere.internal)
 
 ---
 
-### Fokus & Minat
-- 🔭 **Sedang mengerjakan:** Proyek [Nama Proyek Utama / Skripsi / Sistem]
-- 🧠 **Eksplorasi teknis:** [Topik Spesifik, misal: Agentic Workflows, Optimasi Model Bahasa, Arsitektur Terdistribusi]
-- 💬 **Diskusi seputar:** [Bidang Minat Diskusi Teknis]
-- 📫 **Kontak:** [email@domain.com] | [LinkedIn Profile URL]
+</div>
+
+### 🧭 Prinsip Rekayasa
+
+1. **Logika Deterministik di Atas Probabilitas**  
+   Mengutamakan arsitektur kode terstruktur dan deterministik sebelum menyerahkan kontrol ke model bahasa demi stabilitas di tahap produksi.
+
+2. **Modularitas & Efisiensi Sumber Daya**  
+   Alur kerja agen terisolasi per fungsi untuk menekan latensi, mengoptimalkan konsumsi token, serta memudahkan pengujian unit (*isolated testing*).
+
+3. **Observabilitas Menyeluruh**  
+   Setiap pemanggilan tools, percabangan logika, dan eksekusi agen terinspeksi secara transparan untuk debugging presisi.
 
 ---
 
-### Tech Stack & Tools
+### 🛠 Core Stack & Ekosistem
 
-**Bahasa Pemrograman**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**Frameworks & Library**
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-**Basis Data & Infrastruktur**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+```text
+Orchestration   │ LangGraph, Multi-Agent Runtime, Tool Dispatch & Verification
+AI & Semantics  │ GraphRAG, Vector Embeddings, LLM Evaluation & Guardrails
+Backend         │ Python, FastAPI, Docker, Distributed Pipelines
+Data & Storage  │ PostgreSQL, Qdrant, NetworkX
+Observability   │ Prometheus, Tracing & Structured Logging, Linux (Dev/Deploy)
