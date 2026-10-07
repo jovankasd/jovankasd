@@ -47,6 +47,21 @@ Daftar teknologi yang aktif saya gunakan dalam membangun produk dan arsitektur s
 
 ---
 
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=jovankasd&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jovankasd&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br><br>
+
+![](https://streak-stats.demolab.com/?user=jovankasd&theme=tokyonight&hide_border=false)
+
+</div>
+
+---
+
 ### 👾 Contribution Playground
 
 <div align="center">
@@ -81,11 +96,3 @@ Daftar teknologi yang aktif saya gunakan dalam membangun produk dan arsitektur s
 <div align="center">
   <sub>Dikelola dengan komitmen kode bersih & versioning teratur. Dikunjungi oleh Anda!</sub>
 </div>
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jovankasd&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jovankasd&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jovankasd&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
