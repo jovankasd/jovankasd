@@ -116,22 +116,3 @@ Saya seorang pengembang web yang berfokus pada **performa, estetika antarmuka mo
     <sub>© 2026 Jovanka Surya Dilla</sub>
   </p>
 </div>
-
-
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=jovankasd&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Jovanka's GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jovankasd&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=jovankasd&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
-
----
-
