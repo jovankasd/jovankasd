@@ -22,3 +22,17 @@
 [![](https://komarev.com/ghpvc/?username=jovankasd&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jovankasd/jovankasd/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jovankasd/jovankasd/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jovankasd/jovankasd/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/jovankasd/jovankasd/snake-output/snake.svg" alt="Snake animation" />
+
+###
