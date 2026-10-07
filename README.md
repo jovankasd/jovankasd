@@ -76,12 +76,6 @@ Daftar teknologi yang aktif saya gunakan dalam membangun produk dan arsitektur s
 <br clear="both">
 <br>
 
-#### 🐍 Eating the Commit History
-<img data-importer="snake" src="https://raw.githubusercontent.com/jovankasd/jovankasd/snake-output/snake.svg" alt="Snake animation" width="100%" />
-
-</div>
-
----
 
 ### 💬 Random Dev Quote
 
